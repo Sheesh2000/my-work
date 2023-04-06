@@ -1,0 +1,154 @@
+table, div {
+    font-family: 'Hanken Grotesk', sans-serif; font-size: 14px;
+}
+h1 {
+    position: absolute;
+    top: 162px;
+    left: 294px;
+    font-weight: 800;
+}
+
+th {
+    font-size: 12px;
+    position: absolute;
+    top: 115px;
+    right: 840px;
+    
+}
+.result {
+    text-align: center;
+    background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    color: white;
+    border-radius: 15px;
+    height: 270px;
+    width: 190px;
+    border-style: none;
+    border-width: 5px;
+    padding: 10px;
+    margin-top: 100px;
+    margin-left: 200px;
+}
+.out_of {
+    margin: auto;
+    text-align: center;
+    border-radius: 100%;
+    width: 100px;
+    height: 95px;
+    background-image: linear-gradient(hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+}
+
+table {
+    font-size: 11px;
+    border-spacing: 20px;
+    right: 750px;
+    top: 120px;
+}
+th {
+    text-align: left;
+}
+#hid {
+   display: none;
+}
+button {
+    color: white;
+    position: absolute;
+    border-radius: 100px;
+    border-style: none;
+    width: 160px;
+    height: 28px;
+    right: 730px;
+    top: 330px;
+    background-color:hsl(224, 30%, 27%);
+}
+button:hover {
+    background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+}
+.attribution {
+    display: none;
+}
+#summa {
+    
+    font-weight: 800;
+    position: absolute;
+    left: 440;
+    top: 110px;
+}
+#rea {
+    font-size: 10px;
+    color:hsl(0, 100%, 67%);
+    position: absolute;
+    top: 150px;
+    left: 480px
+}
+#mem {
+    font-size: 10px;
+    color: hsl(39, 100%, 56%);
+    position: absolute;
+    top: 194px;
+    left: 480px;
+}
+#ver {
+    font-size: 10px;
+    font-size: 10px;
+    color: hsl(166, 100%, 37%);
+    position: absolute;
+    top: 243px;
+    left: 480px
+}
+#vis {
+    font-size: 10px;
+    color: hsl(234, 85%, 45%);
+    position: absolute;
+    top: 290px;
+    left: 480px
+}
+.num {
+    font-weight: 700;
+    font-size: 11px;
+    height: 25px;
+    position: relative;
+    bottom: 287px;
+    left: 530px;
+}
+
+#of {
+    position: absolute;
+    top: 205px;
+    left: 294px;
+}
+
+#imgvis {
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    top: 1px;
+    right: 39px;
+}
+#imgver {
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    top: 0px;
+    right: 40px;
+}
+#imgmem {
+    width: 14px;
+    height: 12px;
+    position: absolute;
+    top: 0px;
+    right: 46px;
+}
+#imgrea {
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    top: 0px;
+    right: 50px;
+}
+
+p {
+    opacity: 0.7;
+}
+span {
+    opacity: 0.5;
+}
