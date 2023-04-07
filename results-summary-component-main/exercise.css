@@ -1,3 +1,8 @@
+@media only screen and (max-width: 768px) {
+    [class*="col-"] {
+      width: 100%;
+    }
+}
 table, div {
     font-family: 'Hanken Grotesk', sans-serif; font-size: 14px;
 }
