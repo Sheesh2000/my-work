@@ -56,8 +56,8 @@ button {
     border-style: none;
     width: 160px;
     height: 28px;
-    right: 730px;
-    top: 330px;
+    right: 700px;
+    top: 350px;
     background-color:hsl(224, 30%, 27%);
 }
 button:hover {
